@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to bank accounts related Prod APIs"
+  contactDetails:
+    name: "Mangal-Prod Owner"
+    email: "prod@gamil.com"
+  onCallSupport:
+    - 123456789
+    - 987654321
