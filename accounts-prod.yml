@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to bank accounts related Prod APIs"
   contactDetails:
     name: "Mangal-Prod Owner"
-    email: "{cipher}7b6a56b3c562282cb3769a940093de322a0727fe7615fdcd9f420b77444cfeb464f8688d57841cb6d34cc6981af6e0e"
+    email: "{cipher}78e51c24ca6acce68d8ccb18974cbb688e01c1efd78743af8ca27f3dabe59e604388456ccff09522f313a3f721063f2f"
   onCallSupport:
     - 123456789
     - 987654321
