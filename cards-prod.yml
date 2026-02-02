@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Bank cards related prod APIs "
+  message: "Welcome to Bank cards related production APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@bank.com"
