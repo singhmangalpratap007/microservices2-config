@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bank accounts related Production APIs"
+  message: "Welcome to bank accounts related prod APIs"
   contactDetails:
     name: "Mangal-Prod Owner"
     email: "{cipher}78e51c24ca6acce68d8ccb18974cbb688e01c1efd78743af8ca27f3dabe59e604388456ccff09522f313a3f721063f2f"
