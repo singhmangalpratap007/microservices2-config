@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to bank accounts related local APIs"
   contactDetails:
-    name: "Mangal"
+    name: "Mangalpsingh"
     email: "mangal@gamil.com"
   onCallSupport:
     - 123456789
